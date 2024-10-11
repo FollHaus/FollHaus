@@ -6,7 +6,7 @@ Neural network and Android developer
 
 ⚡Not so long ago I started studying programming and now I'm trying to figure out what I would like to do in the future. In the end I've settled on two directions: neural networks development and creating applications for Android.
 
-* ✉️  You can contact me at [follhaus71@gmail.com](mailto:follhaus71@gmail.com)
+* ✉️  You can contact me at [follhaus71@gmail.com](mailto:follhaus71@gmail.com) and [telegramm](https://t.me/FollHaus) 
 * 🤝  I'm open to collaborating on Developing neural networks and Android applications
 * ⚡  There's a kitty named Anubis and he's a chubby pie.
 
